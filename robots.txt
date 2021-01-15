@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://republicofdalmatia.github.io/sitemap.xml
+sitemap: https://republicofdalmatia.tk/sitemap.xml
